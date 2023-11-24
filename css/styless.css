@@ -145,6 +145,7 @@ ul {
   position: absolute;
   left: 0;
   display: block;
+  width: 100%;
   bottom: -1px;
   height: 4px;
   background-color: #404bbf;
@@ -266,6 +267,7 @@ ul {
   border-radius: 4px;
   cursor: pointer;
   margin: 0 auto;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .hero-button:hover,
