@@ -372,6 +372,12 @@ ul {
   text-align: center;
 }
 
+.social-networks-list {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+
 /*OUR PORTFOLIO*/
 .our-portfolio {
   padding: 120px 0 120px 0;
