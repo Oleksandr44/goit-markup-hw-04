@@ -398,6 +398,10 @@ ul {
   background-color: #404bbf;
 }
 
+.icon-link {
+  fill: #f4f4fd;
+}
+
 /*OUR PORTFOLIO*/
 .our-portfolio {
   padding: 120px 0 120px 0;
