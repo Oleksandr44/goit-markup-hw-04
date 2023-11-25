@@ -499,7 +499,6 @@ ul {
 .footer-container {
   display: flex;
   align-items: baseline;
-  margin-right: 120px;
 }
 
 .social-media {
@@ -519,4 +518,8 @@ ul {
 .social-media-item {
   width: 40px;
   height: 40px;
+}
+
+.container-logo {
+  margin-right: 120px;
 }
