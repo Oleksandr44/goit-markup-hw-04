@@ -465,6 +465,8 @@ ul {
 .end {
   background-color: #2e2f42;
   padding: 100px 0;
+  display: flex;
+  align-items: baseline;
 }
 
 .logo-container {
@@ -494,4 +496,7 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.32px;
   max-width: 264px;
+}
+
+.footer-container {
 }
