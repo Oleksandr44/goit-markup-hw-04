@@ -465,8 +465,6 @@ ul {
 .end {
   background-color: #2e2f42;
   padding: 100px 0;
-  display: flex;
-  align-items: baseline;
 }
 
 .logo-container {
@@ -499,4 +497,26 @@ ul {
 }
 
 .footer-container {
+  display: flex;
+  align-items: baseline;
+  margin-right: 120px;
+}
+
+.social-media {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  margin-bottom: 16px;
+}
+
+.social-media-list {
+  display: flex;
+  gap: 16px;
+}
+
+.social-media-item {
+  width: 40px;
+  height: 40px;
 }
