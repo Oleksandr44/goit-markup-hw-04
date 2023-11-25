@@ -513,8 +513,6 @@ ul {
 .social-media-list {
   display: flex;
   gap: 16px;
-
-  margin-top: 16px;
 }
 
 .social-media-item {
