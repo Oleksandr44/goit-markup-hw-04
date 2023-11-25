@@ -135,10 +135,6 @@ ul {
   color: #404bbf;
 }
 
-.current:active {
-  text-decoration: underline;
-}
-
 .logo-link.current::after {
   content: "";
   position: absolute;
